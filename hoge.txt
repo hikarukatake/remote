@@ -1,6 +1,10 @@
 name?
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 
 =======
 A
 >>>>>>> Stashed changes
+=======
+A 
+>>>>>>> d2a9343590c8c04a23e2c936ffcb4de84d09685c
