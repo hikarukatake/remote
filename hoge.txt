@@ -1,2 +1,6 @@
 name?
+<<<<<<< Updated upstream
 
+=======
+A
+>>>>>>> Stashed changes
